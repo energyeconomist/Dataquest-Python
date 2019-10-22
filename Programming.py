@@ -1,6 +1,6 @@
 # Programming in Python
 
-# In this session, I perform basic arithmetical operations in Python.
+# In this session, I perform basic arithmetical operations in Python. I also learned Python's syntax rules and each line of instruction has to comply with these rules.
 
 ## 2. Programming in Python ##
 
